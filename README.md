@@ -1,1 +1,1 @@
-# pratice_git
+# practice_git
