@@ -29,7 +29,7 @@ Other fruits:
 Click [here](https://www.rapidtables.org/ko/web/color/RGB_Color.html)
 
 <!-- Image -->
-![imagae description](https://miro.medium.com/max/1400/0*du8LEJst4rlIqQ1u.png)
+![image description](https://miro.medium.com/max/1400/0*du8LEJst4rlIqQ1u.png)
 
 <!-- Table -->
 |Header|Description|
